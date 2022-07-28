@@ -21,7 +21,7 @@ public class Lighting : MonoBehaviour
         RenderSettings.ambientLight = _earlyLighting;
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         if (transitionOne && RenderSettings.ambientLight != _nightLighting)
         {
