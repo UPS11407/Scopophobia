@@ -1,0 +1,13 @@
+Mountain 3D Object and Textures by marciomeireles: https://www.turbosquid.com/3d-models/free-obj-mode-canyon-cliff-desert-mountain/988758
+Tree 3D Object and Textures by xfrog: https://www.turbosquid.com/3d-models/xfrogplants-california-redwood-sequoia-sempervirens-3d-model-1771603
+Moon 3D Object and Textures by Gerhald3D: https://www.turbosquid.com/3d-models/realistic-moon-photorealistic-2k-model-1277420
+
+Pipe 3D Object and Textures by James Lowart: https://assetstore.unity.com/packages/3d/environments/industrial/pipe-constructor-186974
+Waterfall 3D Object by Dr.Game: https://assetstore.unity.com/packages/3d/environments/landscapes/realistic-waterfall-prefab-55168
+Waterfall Textures and VFX by Dr.Game: https://assetstore.unity.com/packages/2d/textures-materials/realistic-waterfall-texture-33305
+Water 3D Object and Animated Textures by Deko: https://assetstore.unity.com/packages/2d/textures-materials/water/animated-water-texture-pack-7360
+
+Main Menu Font: https://fonts.google.com/specimen/Cormorant+SC
+Clapper, Play Button, Power Button, and Eye Icon: https://game-icons.net/
+Pipe Break SFX: https://www.fesliyanstudios.com/
+Running Water SFX by BurghRecords: https://freesound.org/people/BurghRecords/sounds/415151/
